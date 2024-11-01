@@ -11,35 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Civil Engineering, Indian Institute of Technology Roorkee, 2027 (expected)
+* M.Tech. in Structural Engineering, Swami Ramanand Teerth Marathwada University Nanded, 2021
+* B.Tech. in Civil Engineering, National Institute of Technology Durgapur, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2023 to Present: Ph.D. Scholar (MoE)
+  * Indian Institute of Technology Roorkee
+  * Thesis: Advanced computational modeling of Train-Track-Bridge Interaction 
+  * Supervisor: Professor Rajib Chowdhury
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2021 to July 2022: Design Engineer
+  * International Design & Engineering Solutions (IDES-Global)
+  * Duties included: Design of Cold formed Steel structures in WW_US Team
+  * Location: Pune, Maharashtra, India
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* July 2020 to November 2021: Structural Design Executive
+  * Vastustruct (Proprietorship)
+  * Duties included: Design of Reinforced concrete framed buildings, conventional steel structures, Pre-Engineered buildings, foundation design, connection design, preparation of General Arrangement and structural drawings with site visits.
+  * Location: Pune, Maharashtra, India
+
+* June 2020 to July 2020: Junior Design Engineer (Internship)
+  * Smart Infr-Est
+  * Duties included: Design of reinforced concrete structural members and foundation design
+  * Location: Virtual (Online mode)
+
+* May 2017 to June 2017: Intern
+  * Mejia Thermal Power Station (MTPS), Damodar Valley Corporation (DVC)
+  * Duties included: Acquired knowledge in the field of Thermal Power Plant Operations and exposed to the working of different Waste Water Treatment Processes and Units.
+  * Location: Bankura, West Bengal, India
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language
+  * Python
+  * MATLAB
+* Structural Engineering
+  * CSI ETABS
+  * CSI SAP2000
+  * Bentley STAAD Pro
+  * ABAQUS CAE
+  * ANSYS
+  * Computer-Aided Design (AutoCAD, GStarCAD)
+* Interpersonal communication
+* Problem solving
+* Leadership
 
 Publications
 ======
@@ -61,4 +78,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently leading Structural Proof-checking services for Professor Rajib Chowdhury
