@@ -1,13 +1,13 @@
 ---
-title: "Parametric Study of Performance-Based Seismic Design of Plan Irregular RC Frames- Indian Scenario"
+title: "Paper Title Number 4"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'Existing Building Codes do not specify the performance criteria of individual structural members under various levels of shaking during earthquake or ground motions. Thus several developing and developed countries all across world have incorporated changes in their seismic codes for practical applications. In India, there is no proper description of 'Earthquake-Resistant' building. Buildings should be clearly categorised and designed according to Performance Objectives. Strict guidelines must be laid down that all buildings should be designated, designed and offered as 'Earthquake-Resistant-Collapse Prevention/Life Safety/Immediate Occupancy'. It is interesting to know that India is the only seismic-prone country in the world that has neither its own Performance-Based Seismic Design (PSBD) Code nor a dedicated Hospital Design Code. Moreover, in the current Indian seismic code, displacements and forces are within the elastic limit, i.e., the assumed behavior is linear. In fact, however the structural response to the major earthquake is not elastic. The formation of plastic hinges exceeding Collapse Prevention state occurs in most structural members. Retrofitting had also proved to be uneconomical for the buildings to perform better under severe earthquakes. This paper presents a comparative PBSD analysis of G+4 regular and all 5 types of Plan Irregular RC frames using Response Spectrum and Time History methods in Zone IV & Zone V as per IS 1893:2016. The primary objective of the study is to verify the essential dimensions of primary structural members in the Lifeline Structures Condition of Collapse Prevention and Life Safety. The Time-History data for Bhuj Earthquake was used for this analysis. The Pushover Analysis is then carried out to study the inelastic behavior of the structure. The research is very useful for practicing Structural Engineers to determine the minimum dimensions of slabs, beams and columns in different configurations of normal and plan irregular frames to be carried out in the state of Life Safety and Collapse Prevention.'
+excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
-venue: 'Virtual Conference on Disaster Risk Reduction-Civil Engineering for a Disaster Resilient Society (VCDRR 2021)'
-paperurl: 'https://rajat-sirsikar.github.io/files/paper3.pdf'
-citation: 'Sirsikar, R.A., Awchat, G.D., Kalyana Rama, J.S. (2022). Parametric Study of Performance-Based Seismic Design of Plan Irregular RC Frames—Indian Scenario. In: Kolathayar S., Chian, S.C. (eds) Recent Advances in Earthquake Engineering . Lecture Notes in Civil Engineering, vol 175. Springer, Singapore. https://doi.org/10.1007/978-981-16-4617-1_34'
+venue: 'GitHub Journal of Bugs'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
