@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Engineering the Future of Structures"
+title: "Engineering the Future of Infrastructure"
 author_profile: true
 redirect_from: 
   - /about/
