@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "RS"
 title_separator          : "-"
-name                     : &name "Rajat Sirsikar"
+name                     : &name "RS"
 description              : &description "engineer"
 url                      : https://rajat-sirsikar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Rajat Abhay Sirsikar"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Ph.D. Candidate, Engineer"
+  bio              : "Ph.D. Candidate, Civil Structural Engineer"
   location         : "Roorkee, India"
   employer         : "IIT Roorkee"
-  uri              : "https://rajat-sirsikar.github.io/" # URL
+  uri              : "https://rajatsirsikar.com/" # URL
   email            : "rajatsirsikar5@gmail.com" 
 
   # Academic websites
@@ -122,10 +122,10 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+google_site_verification : "rajat abhay sirsikar"
+bing_site_verification   : "rajat abhay sirsikar"
+alexa_site_verification  : "rajat abhay sirsikar"
+yandex_site_verification : "rajat abhay sirsikar"
 
 
 # Social Sharing
