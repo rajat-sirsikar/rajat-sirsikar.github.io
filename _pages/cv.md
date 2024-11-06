@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* January 2023 to Present: Ph.D. Scholar (MoE)
+* January 2023 to Present: Ph.D. Candidate (MoE)
   * Indian Institute of Technology Roorkee
   * Thesis: Advanced computational modeling of Train-Track-Bridge Interaction 
   * Supervisor: Professor Rajib Chowdhury
