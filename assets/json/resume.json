@@ -64,7 +64,7 @@
   "volunteer": [
     {
       "organization": "Entrepreneurship Development Cell, National Institute of Technology Durgapur",
-      "location": "Durgapur, West Bengal, India",
+      "location": "Durgapur, West Bengal",
       "position": "Senior Member",
       "url": "https://www.edcnitd.co.in/",
       "startDate": "2017-08-01",
@@ -76,7 +76,7 @@
   "education": [
     {
       "institution": "Indian Institute of Technology, Roorkee",
-      "location": "Roorkee, Uttarakhand, India",
+      "location": "Roorkee, Uttarakhand",
       "url": "https://www.iitr.ac.in/",
       "area": "Civil Engineering (Structures)",
       "studyType": "Doctor of Philosophy",
@@ -87,7 +87,7 @@
     },
     {
       "institution": "Shri Guru Gobind Singhji Institute of Engineering and Technology, Vishnupuri, Nanded",
-      "location": "Nanded, Maharashtra, India",
+      "location": "Nanded, Maharashtra",
       "url": "https://www.sggs.ac.in/",
       "area": "Structural Engineering",
       "studyType": "Master of Technology",
@@ -98,7 +98,7 @@
     },
     {
       "institution": "National Institute of Technology, Durgapur",
-      "location": "Durgapur, West Bengal, India",
+      "location": "Durgapur, West Bengal",
       "url": "https://nitdgp.ac.in/",
       "area": "Civil Engineering",
       "studyType": "Bachelor of Technology",
@@ -119,7 +119,7 @@
   ],
   "certificates": [
     {
-      "name": "Google IT Automation with Python",
+      "name": "Google IT Automation",
       "date": "2024-01-02",
       "issuer": "Google",
       "url": "https://www.coursera.org/account/accomplishments/specialization/EVDA42BPDSBZ",
