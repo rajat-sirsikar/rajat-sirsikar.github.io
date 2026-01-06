@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-ve-been-admitted-to-the-phd-program-at-iit-roorkee-tada",
+          title: 'I’ve been admitted to the PhD program at IIT Roorkee! :tada:',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-ve-successfully-completed-my-comprehensive-examination-and-have-been-recommended-for-phd-candidacy-at-iit-roorkee-relieved",
+          title: 'I’ve successfully completed my Comprehensive Examination and have been recommended for PhD candidacy...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-ve-been-upgraded-from-jrf-to-srf-under-institute-assistantship-sparkles",
+          title: 'I’ve been upgraded from JRF to SRF under Institute Assistantship! :sparkles:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
