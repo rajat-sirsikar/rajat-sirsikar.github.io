@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Rajat Abhay Sirsikar, a Civil Structural Engineer and Chartered Engineer (India). My expertise lies in the analysis, design, and estimation of steel structures, pre-engineered buildings, cold-formed structures, and reinforced concrete buildings. I possess in-depth knowledge of various Indian, European, and American structural codes.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently pursuing my Ph.D. at Indian Institute of Technology Roorkee, my research focuses on computational modelling of train-track-bridge interaction which lies at the intersection of vehicle dynamics, contact mechanics, and bridge engineering; aiming to contribute to safer and more resilient railway infrastructure.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am passionate about advancing sustainable and resilient infrastructure through research, consulting, and practical engineering solutions. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rajat-sirsikar/).
