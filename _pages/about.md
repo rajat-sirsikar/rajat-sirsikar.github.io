@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Civil Engineering</p>
-    <p>Indian Institute of Technology Roorkee</p>
+    <p>MRC Bhawan</p>
+    <p>IIT Roorkee</p>
     <p>Roorkee, Uttarakhand 247667</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -31,4 +31,4 @@ I am Rajat Abhay Sirsikar, a Civil Structural Engineer and Chartered Engineer (I
 
 Currently pursuing my Ph.D. at Indian Institute of Technology Roorkee, my research focuses on computational modelling of train-track-bridge interaction which lies at the intersection of vehicle dynamics, contact mechanics, and bridge engineering; aiming to contribute to safer and more resilient railway infrastructure.
 
-I am passionate about advancing sustainable and resilient infrastructure through research, consulting, and practical engineering solutions. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rajat-sirsikar/).
+I am passionate about advancing sustainable and resilient infrastructure through research, consulting, and practical engineering solutions.
