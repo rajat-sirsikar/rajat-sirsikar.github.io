@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Overview of courses I have taught or contributed to as an instructor, teaching assistant, or guest lecturer. Includes links to course materials, syllabi, and resources where available.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+This page provides an overview of my teaching experience across universities and academic levels. Courses are organized by year (most recent first) or by institution/topic for clarity.
 
-Organize your courses by years, topics, or universities, however you like!
+I make complex topics accessible and engaging, incorporating interactive elements, real-world applications, and inclusive teaching practices.

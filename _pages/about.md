@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Doctoral Candidate at <a href='https://www.iitr.ac.in/'>IIT Roorkee</a>. Computational Structural Engineer.
 

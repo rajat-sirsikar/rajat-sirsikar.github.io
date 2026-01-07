@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A curated showcase of my professional journey, featuring structural design projects from my work as a practicing structural engineer, as well as my contributions as a scientific software developer — including mobile and web applications, computational tools or programming scripts for structural engineering, and related contributions.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Structural design, Computational tools]
 horizontal: false
 ---
 
