@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Roorkee, Uttarakhand - 247667</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,8 +24,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Rajat Abhay Sirsikar, a Civil Structural Engineer and Chartered Engineer (India). My expertise lies in the analysis, design, and estimation of steel structures, pre-engineered buildings, cold-formed structures, and reinforced concrete buildings. I possess in-depth knowledge of various Indian, European, and American structural codes.
+I am Rajat Abhay Sirsikar, a Civil-Structural Engineer and Chartered Engineer (India), with deep expertise in the analysis, design, and cost estimation of:
 
-Currently pursuing my Ph.D. at Indian Institute of Technology Roorkee, my research focuses on computational modelling of train-track-bridge interaction which lies at the intersection of vehicle dynamics, contact mechanics, and bridge engineering; aiming to contribute to safer and more resilient railway infrastructure.
+- Steel structures
+- Pre-engineered buildings (PEB)
+- Cold-formed steel structures
+- Reinforced concrete buildings
 
-I am passionate about advancing sustainable and resilient infrastructure through research, consulting, and practical engineering solutions.
+I am currently pursuing my Ph.D. in the Department of Civil Engineering at the Indian Institute of Technology Roorkee (IIT Roorkee), where my research centers on the computational modelling of train–track–bridge interaction. My work integrates vehicle dynamics, wheel–rail contact mechanics, and bridge engineering — with the goal of developing safer, more resilient, and efficient railway infrastructure systems.
+
+Beyond research, I am deeply committed to mentoring and training the next generation of structural engineers. Through teaching, academic supervision, industry consulting, and delivering practical design solutions, I strive to bridge the gap between theory and real-world application.
+
+My mission is to contribute meaningfully to resilient infrastructure by combining rigorous research, innovative thinking, and optimized, constructible engineering solutions that serve both present needs and future demands.
+
+I welcome opportunities to collaborate on challenging structural projects, research, or knowledge-sharing initiatives in civil and structural engineering.
