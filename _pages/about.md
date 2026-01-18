@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Rajat Abhay Sirsikar, a Civil-Structural Engineer and Chartered Engineer (India), with deep expertise in the analysis, design, and cost estimation of:
+I am a Civil-Structural Engineer and Chartered Engineer (India), with deep expertise in the analysis, design, and cost estimation of:
 
 - Steel structures
 - Pre-engineered buildings (PEB)
