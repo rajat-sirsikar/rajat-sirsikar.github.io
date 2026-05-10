@@ -24,6 +24,8 @@ back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
 # Theme
+# Fonts & Theme
+theme_color: "#00ff9d"
 # -----------------------------------------------------------------------------
 
 # repo color theme
