@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Projects | Rajat Abhay Sirsikar</title>
+  <meta name="description" content="Structural engineering projects and academic work by Rajat Abhay Sirsikar.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav class="site-nav" aria-label="Main">
+    <div class="container">
+      <a href="index.html" class="nav-brand">Rajat A. Sirsikar</a>
+      <div class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="publications.html">Publications</a>
+        <a href="projects.html" class="active">Projects</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero" style="padding-bottom: 12px;">
+    <div class="container">
+      <div class="hero-grid">
+        <div>
+          <img src="assets/me_new.jpg" class="hero-photo" alt="Rajat Abhay Sirsikar" width="220" height="220">
+        </div>
+        <div>
+          <h1>Rajat Abhay Sirsikar</h1>
+          <p class="hero-tagline">I like to design structures, share research, and build computational tools and technologies</p>
+          <div class="social-row">
+            <a href="https://scholar.google.com/citations?user=wyzTYfwAAAAJ&hl" aria-label="Google Scholar">
+              <img src="assets/googlescholar.svg" class="social-icon" alt="">
+            </a>
+            <a href="https://github.com/rajat-sirsikar" aria-label="GitHub">
+              <img src="assets/github.svg" class="social-icon" alt="">
+            </a>
+            <a href="https://www.linkedin.com/in/rajat-sirsikar/" aria-label="LinkedIn">
+              <img src="assets/linkedin.svg" class="social-icon" alt="">
+            </a>
+            <a href="https://www.youtube.com/@rajatabhaysirsikar7494" aria-label="YouTube">
+              <img src="assets/youtube.svg" class="social-icon" alt="">
+            </a>
+            <a href="https://www.researchgate.net/profile/Rajat-Abhay-Sirsikar" aria-label="ResearchGate">
+              <img src="assets/researchgate.svg" class="social-icon" alt="">
+            </a>
+            <img src="assets/gmail.svg" class="social-icon" id="iemail" title="Click to reveal email" alt="Email" style="cursor:pointer">
+          </div>
+          <div id="demail"></div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="section">
+      <div class="container">
+        <h2 class="section-title">Structural Projects</h2>
+        <p class="section-intro">
+          Selected projects from industry practice and academic research. Full experience is detailed on the home page.
+        </p>
+
+        <div class="note">
+          This list highlights representative structural engineering work (steel, cold-formed, RC and PEB) carried out as Design Engineer / Structural Design Executive.
+        </div>
+
+        <div class="project-grid">
+
+          <article class="project-card">
+            <img src="assets/kaushik_farm_house.png" class="project-img" alt="Farm house structural design">
+            <div class="project-body">
+              <span class="project-tag">Industry · Structural Design</span>
+              <h3>Residential / Farm House Structures</h3>
+              <p>
+                Structural analysis and design of residential and farm-house buildings including foundation systems,
+                steel and reinforced-concrete framing, and detailing for constructability.
+              </p>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <img src="assets/variety_12_2MB1.png" class="project-img" alt="Commercial / PEB building">
+            <div class="project-body">
+              <span class="project-tag">Industry · PEB &amp; Steel</span>
+              <h3>Pre-Engineered &amp; Conventional Steel Buildings</h3>
+              <p>
+                Design of cold-formed steel and conventional steel buildings for industrial and commercial use —
+                including member sizing, connection design, bracing systems and foundation coordination.
+              </p>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <img src="assets/mtech_dissertation.png" class="project-img" alt="M.Tech dissertation">
+            <div class="project-body">
+              <span class="project-tag">Academic · 2021</span>
+              <h3>Performance-Based Seismic Design of Plan Irregular RC Buildings</h3>
+              <p>
+                M.Tech dissertation focused on performance-based seismic design procedures for plan-irregular
+                reinforced-concrete frames under the Indian context. Supervised at SGGSIE&amp;T, Nanded.
+              </p>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <img src="assets/btechdissertation.png" class="project-img" alt="B.Tech dissertation">
+            <div class="project-body">
+              <span class="project-tag">Academic · 2018</span>
+              <h3>Study of Helical Pile Behaviour in Cohesionless Soil</h3>
+              <p>
+                B.Tech dissertation at NIT Durgapur investigating the behaviour of helical piles in cohesionless soils —
+                load transfer mechanisms, capacity prediction and parametric studies.
+              </p>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <h2 class="section-title">Research Focus (PhD)</h2>
+        <div class="prose">
+          Current PhD research at <a href="https://iitr.ac.in/">IIT Roorkee</a> centres on
+          <strong>computational modelling of Train–Track–Bridge interaction</strong>.
+          The work combines nonlinear dynamics, finite-element analysis and machine-learning approaches
+          to predict railway-bridge responses under moving train loads, contributing toward safer and more resilient infrastructure.
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      © Rajat Abhay Sirsikar · <a href="https://www.rajatsirsikar.com">rajatsirsikar.com</a>
+    </div>
+  </footer>
+
+  <script>
+    const rot13 = (message) => {
+      const alpha = 'abcdefghijklmnopqrstuvwxyzabcdefghijklmABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLM';
+      return message.replace(/[a-z]/gi, letter => alpha[alpha.indexOf(letter) + 13]);
+    };
+    let e_is_shown = false;
+    document.getElementById('iemail').addEventListener('click', function () {
+      const demail = document.getElementById('demail');
+      const msg = 'enwngfvefvxne5' + '@' + 'tznvy.pbz';
+      demail.innerHTML = rot13(msg);
+      demail.style.opacity = e_is_shown ? 0 : 1;
+      e_is_shown = !e_is_shown;
+    });
+  </script>
+</body>
+</html>
