@@ -699,6 +699,55 @@ a:hover {
   margin-bottom: 10px;
 }
 
+/* ---------- Multi-column image gallery ---------- */
+.project-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  margin: 32px 0 40px;
+}
+
+.project-gallery figure {
+  margin: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow 0.25s ease, transform 0.25s ease;
+}
+
+.project-gallery figure:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-3px);
+}
+
+.project-gallery img {
+  width: 100%;
+  height: 220px;          /* fixed height for consistent cards */
+  object-fit: cover;      /* or "contain" if you prefer full drawing visibility */
+  display: block;
+  border-radius: var(--radius);
+  background: var(--bg);
+}
+
+.project-gallery figcaption {
+  padding: 12px 14px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  border-top: 1px solid var(--border);
+  background: var(--surface);
+}
+
+/* Optional: make the first image span full width if you want a featured image */
+.project-gallery figure:first-child {
+  grid-column: 1 / -1;   /* full width */
+}
+.project-gallery figure:first-child img {
+  height: 320px;
+}
+
 /* ---------- Footer ---------- */
 .site-footer {
   margin-top: 56px;
